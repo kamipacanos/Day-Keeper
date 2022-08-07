@@ -29,3 +29,7 @@ GIVEN I am using a daily planner to create a schedule
     
 (5) WHEN I refresh the page
     THEN the saved events persist
+
+
+https://kamipacanos.github.io/Day-Keeper/
+
